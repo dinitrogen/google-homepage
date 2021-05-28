@@ -15,6 +15,35 @@
     padding: 10px;
 }
 
+.nav-signin {
+    float: right;
+    padding-top: 0px;
+    padding-left: 10px;
+}
+
+.button-signin {
+    height: 40px;
+    width: 80px;
+    background-color: rgb(26, 115, 232);
+    color: white;
+    font-family: Roboto, arial, sans-serif;
+    font-size: 14px;
+    border:none;
+    border-radius: 5px;
+    box-shadow: 0 0 5px (26, 115, 232);
+}
+
+.nav-icon {
+    float:right;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.apps-icon {
+    height: 25px;
+}
+
 .spacer {
     height: 100px;
 }
